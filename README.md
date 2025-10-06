@@ -6,6 +6,9 @@ A fully functional chess game built with HTML, CSS, and JavaScript. This interac
 
 This project is a digital implementation of the classic chess game featuring a clean, responsive interface and intuitive gameplay. Built using vanilla JavaScript without any external libraries, it demonstrates core web development skills including DOM manipulation, event handling, game logic implementation, and responsive design principles.
 
+## visit 
+https://mrkasif.github.io/chess-game/
+
 ## ✨ Features
 
 - **Interactive Chessboard** - 8×8 grid layout with alternating square colors
